@@ -18,7 +18,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "A2_241A010541"; // Thay bằng MSSV của bạn
+    private static final String TAG = "A2_241A010541_Lifecycle";
 
     // Khóa lưu trạng thái vào Bundle
     private static final String KEY_RUNNING = "running";

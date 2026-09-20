@@ -17,7 +17,7 @@ import androidx.core.view.WindowInsetsCompat;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-
+    // Lab A2 - Quan ly vong doi va luu trang thai Activity
     private static final String TAG = "A2_241A010541_Lifecycle";
 
     // Khóa lưu trạng thái vào Bundle
